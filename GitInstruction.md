@@ -65,3 +65,7 @@ git add .  или  git add --all
  ```
  git checkout master
  ```
+
+ ![Logo](Git-Logo-1788C.png)
+
+ 
